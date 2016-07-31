@@ -18,3 +18,9 @@ main {
 .right {
 	float: right;
 }
+
+img	{
+	padding-right: 7px;
+	padding-top: 7px;
+	padding-bottom: 7px;
+}
